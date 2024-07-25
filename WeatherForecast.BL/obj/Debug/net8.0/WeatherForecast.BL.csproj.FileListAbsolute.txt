@@ -1,0 +1,12 @@
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\bin\Debug\net8.0\WeatherForecast.BL.deps.json
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\bin\Debug\net8.0\WeatherForecast.BL.dll
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\bin\Debug\net8.0\WeatherForecast.BL.pdb
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\WeatherForecast.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\WeatherForecast.BL.AssemblyInfoInputs.cache
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\WeatherForecast.BL.AssemblyInfo.cs
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\WeatherForecast.BL.csproj.CoreCompileInputs.cache
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\WeatherForecast.BL.dll
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\refint\WeatherForecast.BL.dll
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\WeatherForecast.BL.pdb
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\ref\WeatherForecast.BL.dll
+C:\Self-dev\WeatherForecast\WeatherForecast.BL\obj\Debug\net8.0\WeatherForecast.BL.csproj.AssemblyReference.cache

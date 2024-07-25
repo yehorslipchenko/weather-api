@@ -1,0 +1,15 @@
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\WeatherForecast.API.exe
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\appsettings.Development.json
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\appsettings.json
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\WeatherForecast.API.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\WeatherForecast.API.deps.json
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\WeatherForecast.API.runtimeconfig.json
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\WeatherForecast.API.pdb
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\HtmlAgilityPack.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\Newtonsoft.Json.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\WeatherForecast.BL.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Docker\publish\WeatherForecast.BL.pdb

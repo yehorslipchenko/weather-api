@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xzCiPXojIZVrSjZNLhVjaM72BXB+p1LTKGSTNv5WQeQ=",
+  "Source": "WeatherForecast.API",
+  "BasePath": "_content/WeatherForecast.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

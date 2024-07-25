@@ -1,0 +1,15 @@
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherForecast.API
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherForecast.API.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherForecast.API.deps.json
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherForecast.API.runtimeconfig.json
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherForecast.API.pdb
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\HtmlAgilityPack.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\Newtonsoft.Json.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherForecast.BL.dll
+C:\Self-dev\WeatherForecast\WeatherForecast\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherForecast.BL.pdb
